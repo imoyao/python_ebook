@@ -1,5 +1,6 @@
 # python_ebook
 收集了一些Python相关资料   
+电子版下载[PDF Drive - Search and download PDF files for free.](https://www.pdfdrive.com/)  
 
 see also:[The Best Python Books – Real Python](https://realpython.com/best-python-books/) 
 
