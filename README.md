@@ -1,6 +1,8 @@
 # python_ebook
-收集了一些Python相关资料
-see also:[The Best Python Books – Real Python](https://realpython.com/best-python-books/)
+收集了一些Python相关资料   
+
+see also:[The Best Python Books – Real Python](https://realpython.com/best-python-books/) 
+
 Table of Contents
 
 *   [Best Books for Learning Python](#)
